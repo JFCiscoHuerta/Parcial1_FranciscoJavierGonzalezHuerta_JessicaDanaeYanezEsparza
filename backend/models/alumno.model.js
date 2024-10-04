@@ -18,4 +18,4 @@ const EsquemaAlumnoReprobado = new Schema({
     }
 })
 
-export const ModeloAlumnoReprobado = new model("Tabla de alumnos reprobados", EsquemaAlumnoReprobado)
+export const ModeloAlumnoReprobado = new model("Alumnos reprobados", EsquemaAlumnoReprobado)
